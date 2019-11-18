@@ -9,4 +9,4 @@ Here is a GIF of our 3D scanner in action:
 Here is a demo video of our 3D scanner plotting a water bottle onto a 3D plane.
 
 <a href="https://www.youtube.com/watch?v=kriLClf-bYc" target="_blank"><img src="preview_pic.jpg" 
-alt="IMAGE ALT TEXT HERE" border="3" /></a>
+alt="IMAGE ALT TEXT HERE" border="5" /></a>
